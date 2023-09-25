@@ -1,6 +1,6 @@
 # API FLASK
 
-Esse projeto visa a crição de uma API flask que permita fazer requisições à alguns modelos de inteligência artifical criados
+Esse projeto foi feito a partir do curso de MLOps da Alura que visa a crição de uma API flask que permita fazer requisições à alguns modelos de inteligência artifical criados.
 
 ## Endpoints
     /                    -> página inicial
